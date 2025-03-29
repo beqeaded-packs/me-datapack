@@ -1,0 +1,1 @@
+execute if score me_config me_config_glow_players matches 1 run effect give @a minecraft:glowing infinite 0 true

@@ -1,0 +1,1 @@
+execute run function me-datapack:glow_players/execute
