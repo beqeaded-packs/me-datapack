@@ -1,0 +1,1 @@
+loot give @s loot me-datapack:songs/death-note-kira-theme

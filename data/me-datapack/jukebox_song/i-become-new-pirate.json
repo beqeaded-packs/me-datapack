@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": "I Become New Pirate",
+  "length_in_seconds": 240,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.i-become-new-pirate"
+  }
+}

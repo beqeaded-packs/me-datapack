@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": "Deja Vu",
+  "length_in_seconds": 254,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.deja-vu"
+  }
+}

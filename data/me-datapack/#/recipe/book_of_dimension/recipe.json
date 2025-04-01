@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["SCS", "CBC", "SCS"],
+  "key": {
+    "S": "minecraft:nether_star",
+    "C": "minecraft:end_crystal",
+    "B": "minecraft:book"
+  },
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "written_book_content": {
+        "title": "Book of Dimension",
+        "author": "§k Book of Dimension",
+        "pages": [
+          {
+            "raw": [
+              {
+                "text": "This is a book about dimensions!",
+                "obfuscated": true
+              },
+              { "text": "dimensions", "color": "red", "obfuscated": false },
+              {
+                "text": "This is a book about dimensions! This is a book about dimensions! This is a book about dimensions!",
+                "obfuscated": true
+              },
+              { "selector": "@s", "obfuscated": false },
+              { "text": "teleport" }
+            ]
+          }
+        ]
+      }
+    },
+    "count": 1
+  }
+}

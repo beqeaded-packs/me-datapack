@@ -1,0 +1,86 @@
+{
+  "music_disc.burry-the-light": {
+    "sounds": [
+      {
+        "name": "records/burry-the-light"
+      }
+    ]
+  },
+  "music_disc.kira-yoshikage": {
+    "sounds": [
+      {
+        "name": "records/kira-yoshikage"
+      }
+    ]
+  },
+  "music_disc.death-note-kira-theme": {
+    "sounds": [
+      {
+        "name": "records/death-note-kira-theme"
+      }
+    ]
+  },
+  "music_disc.chipi-chipi-chapa-chapa": {
+    "sounds": [
+      {
+        "name": "records/chipi-chipi-chapa-chapa"
+      }
+    ]
+  },
+  "music_disc.deja-vu": {
+    "sounds": [
+      {
+        "name": "records/deja-vu"
+      }
+    ]
+  },
+  "music_disc.drip-of-the-japanese-emperor": {
+    "sounds": [
+      {
+        "name": "records/drip-of-the-japanese-emperor"
+      }
+    ]
+  },
+  "music_disc.fabulous-secret-powers": {
+    "sounds": [
+      {
+        "name": "records/fabulous-secret-powers"
+      }
+    ]
+  },
+  "music_disc.i-become-new-pirate": {
+    "sounds": [
+      {
+        "name": "records/i-become-new-pirate"
+      }
+    ]
+  },
+  "music_disc.im-shark": {
+    "sounds": [
+      {
+        "name": "records/im-shark"
+      }
+    ]
+  },
+  "music_disc.s3rl-hentai": {
+    "sounds": [
+      {
+        "name": "records/s3rl-hentai"
+      }
+    ]
+  },
+  "music_disc.shrek-somebody-once-told-me": {
+    "sounds": [
+      {
+        "name": "records/shrek-somebody-once-told-me"
+      }
+    ]
+  },
+  "music_disc.zone-ankha": {
+    "sounds": [
+      {
+        "name": "records/zone-ankha"
+      }
+    ]
+  }
+}

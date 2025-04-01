@@ -1,0 +1,1 @@
+loot give @s loot me-datapack:songs/fabulous-secret-powers

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": "Ankha - Zone",
+  "length_in_seconds": 210,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.zone-ankha"
+  }
+}

@@ -1,0 +1,1 @@
+loot give @s loot me-datapack:songs/kira-yoshikage

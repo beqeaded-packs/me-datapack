@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_13",
+          "functions": [
+            {
+              "function": "set_components",
+              "components": {
+                "jukebox_playable": "me-datapack:chipi-chipi-chapa-chapa"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
